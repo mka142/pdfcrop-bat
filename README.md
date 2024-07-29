@@ -1,0 +1,1 @@
+Install pdfcrop. It could be done via MiKTeX or other way. Then specify path to pdfcrop in `crop.bat` or `crop-admin.bat` and use one of them inside of `add_pdfcrop_context_menu.reg`. Then double click on `.reg` file to install PdfCrop as a context menu
