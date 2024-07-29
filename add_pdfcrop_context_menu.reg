@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\PdfCrop]
+@="PdfCrop"
+
+[HKEY_CLASSES_ROOT\*\shell\PdfCrop\command]
+@="\"C:\\Users\\Think\\Scripts\\crop-pdfs\\crop-admin.bat\" \"%1\""
